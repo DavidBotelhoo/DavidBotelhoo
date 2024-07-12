@@ -11,6 +11,20 @@
 
 MUITO OBRIGADO!✨✨
 
+--Español---------------------------------------------------------------------------
+- 👋 Hola! Me llamo David, tengo 22 años y estoy empezando ahora en la programación.
+- Amo la tecnlogia y todo relacionado a la computación (Principalmente los juegos jaja).
+- Actualmente vivo en Argentina.
+- Mi idioma de origen es el Portugués(Brasil), pero tengo nivel Intermediário en Español(con certificado).
+- Quiero trabajar en la Área de la Programación.
+- Tengo conocimiento básico de HTML y CSS.
+- En el momento estoy estudiando Lógica de la Programación con JS en ALURA, pero en el futuro quiero estudiar Python y C#.
+- Y ahora, en los próximos meses, quiero estudiar efectivamente para quedar listo para un primero empleo.
+
+- Quiero seguir actualizando este mi perfil a medida que voy avanzando en mis estudios.
+
+- MUCHÍSIMAS GRACIAS!✨✨
+
 --ENGLISH---------------------------------------------------------------------------
 - 👋 Hi! My name is David, i have 22yo and i'm starting now in Programming.
 - I love tecnology and all of computing (mainly games haha).
