@@ -8,7 +8,7 @@
 - Minha lingua nativa é o Português(Brasil), porém tenho nível Intermediario de Espanhol(Com certificado) e básico de Inglês.
 - Estou com o objetivo trabalhar na área da programação.
 - No momento estou estudando na ALURA.
-- Futuramente pretendo estudar C#.
+- Atualmente estudando Java.
 - E agora, nos proximos meses, quero estudar de forma eficaz para ficar pronto para um primeiro emprego
 
 ## Ferramentas e tecnologias
