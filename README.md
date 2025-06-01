@@ -1,40 +1,69 @@
-<img src="https://github.com/user-attachments/assets/7e11fafe-9684-4fa8-92f2-7939173f1868" width="500"></img>
-# <div>👋 Oi! Me chamo David <img src="https://github.com/user-attachments/assets/77ab96dc-d8f3-41a7-a8ac-6bb018fb6ebd" width="50"></img> </div>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-## Bem vindo ao meu perfil do GitHub!.
-- Tenho 22 anos, e estou começando agora na programação.
-- Amo tecnologia e tudo relacionado a computação (Principalmente Jogos haha).
-- Atualmente moro em La Rioja Capital - Argentina.
-- Minha lingua nativa é o Português(Brasil), porém tenho nível Intermediario de Espanhol(Com certificado) e básico de Inglês.
-- Estou com o objetivo trabalhar na área da programação.
-- No momento estou estudando na ALURA.
-- Atualmente estudando Java.
-- E agora, nos proximos meses, quero estudar de forma eficaz para ficar pronto para um primeiro emprego
-
-## Ferramentas e tecnologias
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" weight="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="50" weight="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height="50" weight="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height="50" weight="50" />
+<div align=center> 
+  <img src="https://github.com/user-attachments/assets/7e11fafe-9684-4fa8-92f2-7939173f1868" width="500"/>
 </div>
 
-## Estudando:
+###
+
+<h1>
+  <div align=center>
+    👋 Oi! Me chamo David <img src="https://github.com/user-attachments/assets/77ab96dc-d8f3-41a7-a8ac-6bb018fb6ebd" width="50"/>
+  </div>
+</h1>
+
+###
+
+<h3>Bem vindo ao meu perfil do GitHub!</h3>
+
+<ul>
+  <li> Tenho 22 anos, e estou começando agora na programação.</li>
+  <li> Amo tecnologia e tudo relacionado a computação (Principalmente Jogos haha).</li>
+  <li> Atualmente moro em La Rioja Capital - Argentina.</li>
+  <li> Minha lingua nativa é o Português(Brasil), porém tenho nível Fluente em Espanhol e intermediário de Inglês.</li>
+  <li> Estou com o objetivo trabalhar na área da programação.</li>
+  <li> Sou estudante de Engenharia em Sistemas de Informação, e no momento estou estudando Java na ALURA.</li>
+</ul>
+
+###
+
+<h3>Ferramentas e tecnologias</h3>
+
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="70" weight="70" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50" weight="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="60" weight="60"/>
+  <i class="devicon-github-original"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" weight="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="50" weight="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height="50" weight="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height="50" weight="50" />
 </div>
 
-## Contatos
+###
+
+<h3>Estudando:</h3>
+
 <div>
-<a href="https://instagram.com/davidbotelho__" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:davi.fbotelho@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="70" weight="70" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50" weight="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="50" weight="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="50" weight="50" />
 </div>
+
+<h3>Contatos</h3>
+
+<div>
+  <a href="https://instagram.com/davidbotelho__" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:davi.fbotelho@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+###
 
 ## 
-<div>
-<a href="https://github.com/DavidBotelhoo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidBotelhoo&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidBotelhoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align=center>
+  <a href="https://github.com/DavidBotelhoo">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidBotelhoo&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidBotelhoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
